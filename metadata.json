@@ -1,0 +1,7 @@
+{
+  "name": "Alif Design And Sourcing USA",
+  "description": "A professional textile and garment sourcing website for apparel brands and private label clients.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
